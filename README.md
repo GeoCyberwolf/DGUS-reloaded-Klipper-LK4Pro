@@ -1,3 +1,5 @@
+# Longer LK4 Pro Touchscreen Firmware For Klipper
+Work in progress, currently unmodified. Works, but display is landscape.
 # DGUS-reloaded-Klipper
 
 DWIN T5UID1 touchscreen firmware for 3D printers running Klipper.
@@ -35,6 +37,9 @@ It **could** also work on machines equipped with more hardware (dual extruder, e
 Testing has been done on the following machines:
 
 * Creality CR-10S Pro
+* Longer LK4 Pro*
+
+*screen is currently landscape, need to do new graphics and config for portrait.
 
 ## Prerequisites
 You have to use this [modified version of Klipper](https://github.com/Desuuuu/klipper). Make sure to enable the serial connection to the screen while configuring the MCU firmware.
