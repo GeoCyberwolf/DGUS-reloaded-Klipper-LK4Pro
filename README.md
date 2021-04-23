@@ -9,6 +9,9 @@ Requires using a modified version of Klipper to work properly, which can be foun
 ## Disclaimer
 **This software is provided without any warranty. You are solely responsible for your use of it.**
 
+## Current Issues
+* Display is landscape, requiring alternative mounting
+* Pause and Cancel print buttons do not work
 ## Features
 
 This firmware was inspired by Creality printers' touchscreen firmware. Some features include:
